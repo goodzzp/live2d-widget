@@ -136,3 +136,6 @@ http://www.gnu.org/licenses/gpl-3.0.html
 
 2018年10月31日，由fghrsh提供的原API停用，请更新至新地址。参考文章：  
 https://www.fghrsh.net/post/170.html
+
+## 简单的参考
+[Hexo博客NexT主题美化之新增看板娘(能说话、能换装)](https://www.jianshu.com/p/89440678ee3c)
